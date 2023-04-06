@@ -1,0 +1,1 @@
+alert( "External JS embedded in the body." )

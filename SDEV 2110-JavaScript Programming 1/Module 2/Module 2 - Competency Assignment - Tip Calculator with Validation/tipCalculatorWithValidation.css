@@ -1,0 +1,39 @@
+body{
+    background-color: #eee;
+}
+h1{
+    text-align: center;
+    margin-top: 0px;
+}
+.tipForm{
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+.inputField{
+    padding: 4px;
+    margin: 10px;
+}
+.radio{
+    margin: 10px;
+}
+#submitButton{
+    margin: 10px;
+}
+.success{
+    border: 2px solid limegreen;
+    background: lightgreen;
+    padding: 4px;
+    margin: 10px;
+}
+.error{
+    border: 2px solid crimson;
+    background: pink;
+    padding: 4px;
+    margin: 10px;
+}
+.feedback{
+    font-size: x-large;
+    text-align: center;
+}

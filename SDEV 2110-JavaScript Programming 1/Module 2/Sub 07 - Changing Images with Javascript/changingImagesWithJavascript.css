@@ -1,0 +1,19 @@
+#lightBulb {
+    width: 200px
+}
+
+#pumpkin {
+    width: 420px;
+}
+
+#lightDiv {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+#pumpkinDiv {
+    width: 50%;
+    float: right;
+    text-align: center;
+}

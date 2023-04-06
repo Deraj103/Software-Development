@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Calculator with Validation</title>
+    <link rel="stylesheet" href="tipCalculatorWithValidation.css">
+    <h1>Tip Calculator</h1>
+</head>
+<body>
+
+    <form class="tipForm">
+        <input type="text" class="inputField" id="name" placeholder="Your name">
+            <label class="nameFeedback"></label><br>
+        <input type="password" class="inputField" id="password" placeholder="Password">
+            <label class="passwordFeedback"></label><br>
+        <input type="text" class="inputField" id="mealCost" placeholder="Cost of meal">
+            <label class="mealCostFeedback"></label><br>
+
+    <p>
+        Quality of Service
+    </p>
+
+        <div>
+            <input type="radio" class="radio" name="quality" value="15" checked>
+            <label id="ok">OK (15% tip)</label>
+        </div>
+        <div>
+            <input type="radio" class="radio" name="quality" value="18">
+            <label id="good">Good (18% tip)</label>
+        </div>
+        <div>
+            <input type="radio" class="radio" name="quality" value="20">
+            <label id="veryGood">Very Good (20%)</label>
+        </div>
+        <div>
+            <input type="radio" class="radio" name="quality" value="22">
+            <label id="excellent">Excellent (22%)</label>
+        </div>
+        <input type="submit" id="submitButton" value="submit">
+        <div class="calcFeedback">
+            <div id="mealCostTotal" class="feedback"></div>
+            <div id="tipFeedback" class="feedback"></div>
+            <div id="totalFeedback" class="feedback"></div>
+        </div>
+    </form>
+
+    <script src="tipCalculatorWithValidation.js"></script>
+
+</body>
+</html>

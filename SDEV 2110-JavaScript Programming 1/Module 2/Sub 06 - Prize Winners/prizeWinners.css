@@ -1,0 +1,37 @@
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    font-size: 20px;
+}
+
+#peopleList {
+    color: green;
+}
+
+#prizeList {
+    color: green;
+}
+
+#peopleWinner {
+    color: blue;
+}
+
+#prizeWinner {
+    color: blue;
+}
