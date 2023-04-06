@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Make use of JavaScript Assignment</title>
+	<meta charset="utf-8">
+
+	<script>
+			function mOver() {
+				var pic = document.getElementById("light_bulb")
+				pic.src = "light_bulb_on.png"
+			}
+
+			function mOut() {
+				var pic = document.getElementById("light_bulb") 
+				pic.src = "light_bulb_off.png"
+			}
+			
+	</script>
+
+</head>
+<body>
+
+	<img id="light_bulb"  src="light_bulb_off.png" width="189" height="300" onmouseover="mOver()" onmouseout="mOut()">
+	<p>Jared Tims</p>
+			
+</body>
+</html>
