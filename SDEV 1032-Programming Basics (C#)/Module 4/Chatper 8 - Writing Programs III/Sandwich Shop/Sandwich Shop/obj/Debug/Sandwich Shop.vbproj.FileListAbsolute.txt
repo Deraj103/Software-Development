@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\bin\Debug\Sandwich Shop.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\bin\Debug\Sandwich Shop.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\bin\Debug\Sandwich Shop.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\bin\Debug\Sandwich Shop.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich Shop.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich_Shop.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich_Shop.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich Shop.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich Shop.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich Shop.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich Shop.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 4 Projects\Chatper 8 - Writing Programs III\Sandwich Shop\Sandwich Shop\obj\Debug\Sandwich Shop.pdb
