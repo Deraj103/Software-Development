@@ -1,0 +1,10 @@
+bin\Debug\DustyLenzkapp.exe
+bin\Debug\DustyLenzkapp.pdb
+bin\Debug\DustyLenzkapp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DustyLenzkapp.frmDustyLenzkapp.resources
+obj\Debug\DustyLenzkapp.Resources.resources
+obj\Debug\DustyLenzkapp.vbproj.GenerateResource.Cache
+obj\Debug\DustyLenzkapp.exe
+obj\Debug\DustyLenzkapp.xml
+obj\Debug\DustyLenzkapp.pdb

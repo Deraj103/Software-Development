@@ -1,0 +1,38 @@
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.frmDustyLenzkapp.resources
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.Resources.resources
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.exe
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.xml
+C:\Documents and Settings\mckeownj\Desktop\New Versions\NewChap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.pdb
+H:\VB\Cambridge\Chap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.exe
+H:\VB\Cambridge\Chap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.xml
+H:\VB\Cambridge\Chap04\Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.exe
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.xml
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.pdb
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.frmDustyLenzkapp.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.Resources.resources
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\DSU\My Documents\VB\Cambridge\2010Versions\2010WebsiteFiles\Programs\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.exe
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.xml
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.pdb
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\bin\Debug\DustyLenzkapp.exe
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\bin\Debug\DustyLenzkapp.pdb
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\bin\Debug\DustyLenzkapp.xml
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.frmDustyLenzkapp.resources
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.Resources.resources
+E:\DATC\My1031-V2\BookResources\Ch04\Chapter04Programs\DustyLenzkapp\DustyLenzkapp\obj\Debug\DustyLenzkapp.vbproj.GenerateResource.Cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\bin\Debug\DustyLenzkapp.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\bin\Debug\DustyLenzkapp.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\bin\Debug\DustyLenzkapp.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.frmDustyLenzkapp.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 4\DustyLenzkapp Program\DustyLenzkapp\obj\Debug\DustyLenzkapp.pdb
