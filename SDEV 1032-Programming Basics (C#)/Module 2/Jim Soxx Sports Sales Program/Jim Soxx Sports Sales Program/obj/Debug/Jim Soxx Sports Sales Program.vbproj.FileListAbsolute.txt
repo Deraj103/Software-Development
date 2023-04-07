@@ -1,0 +1,20 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\bin\Debug\Jim Soxx Sports Sales Program.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\bin\Debug\Jim Soxx Sports Sales Program.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\bin\Debug\Jim Soxx Sports Sales Program.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\bin\Debug\Jim Soxx Sports Sales Program.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim_Soxx_Sports_Sales_Program.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim_Soxx_Sports_Sales_Program.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.pdb
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.vbprojAssemblyReference.cache
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim_Soxx_Sports_Sales_Program.Form1.resources
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim_Soxx_Sports_Sales_Program.Resources.resources
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.vbproj.GenerateResource.cache
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.vbproj.CoreCompileInputs.cache
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.exe
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.xml
+C:\Users\Deraj\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 2 Projects\Chapter 3\Jim Soxx Sports Sales Program\Jim Soxx Sports Sales Program\obj\Debug\Jim Soxx Sports Sales Program.pdb
