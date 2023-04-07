@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\bin\Debug\Rolling Dice.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\bin\Debug\Rolling Dice.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\bin\Debug\Rolling Dice.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\bin\Debug\Rolling Dice.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling Dice.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling_Dice.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling_Dice.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling Dice.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling Dice.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling Dice.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling Dice.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 6 - Loops\Rolling Dice\Rolling Dice\obj\Debug\Rolling Dice.pdb
