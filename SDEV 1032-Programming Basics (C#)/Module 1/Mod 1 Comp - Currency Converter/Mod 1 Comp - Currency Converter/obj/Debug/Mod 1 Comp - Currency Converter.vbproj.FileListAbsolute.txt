@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\bin\Debug\Mod 1 Comp - Currency Converter.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\bin\Debug\Mod 1 Comp - Currency Converter.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\bin\Debug\Mod 1 Comp - Currency Converter.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\bin\Debug\Mod 1 Comp - Currency Converter.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod 1 Comp - Currency Converter.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod_1_Comp___Currency_Converter.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod_1_Comp___Currency_Converter.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod 1 Comp - Currency Converter.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod 1 Comp - Currency Converter.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod 1 Comp - Currency Converter.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod 1 Comp - Currency Converter.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 1 Comp - Currency Converter\Mod 1 Comp - Currency Converter\obj\Debug\Mod 1 Comp - Currency Converter.pdb
