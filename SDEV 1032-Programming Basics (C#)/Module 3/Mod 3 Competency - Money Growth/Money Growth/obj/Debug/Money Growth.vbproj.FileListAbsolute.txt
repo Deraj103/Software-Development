@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\bin\Debug\Money Growth.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\bin\Debug\Money Growth.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\bin\Debug\Money Growth.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\bin\Debug\Money Growth.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money Growth.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money_Growth.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money_Growth.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money Growth.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money Growth.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money Growth.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money Growth.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Mod 3 Competency - Money Growth\Money Growth\Money Growth\obj\Debug\Money Growth.pdb
