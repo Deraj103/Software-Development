@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Days in a Month
+</name>
+</assembly>
+<members>
+<member name="T:Days_in_a_Month.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Days_in_a_Month.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Days_in_a_Month.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

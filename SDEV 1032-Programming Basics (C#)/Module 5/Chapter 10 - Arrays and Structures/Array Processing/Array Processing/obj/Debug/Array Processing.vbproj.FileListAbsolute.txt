@@ -1,0 +1,24 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\bin\Debug\Array Processing.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\bin\Debug\Array Processing.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\bin\Debug\Array Processing.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\bin\Debug\Array Processing.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array Processing.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array_Processing.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array_Processing.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array Processing.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array Processing.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array Processing.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array Processing.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures - Organizing Data\Array Processing\Array Processing\obj\Debug\Array Processing.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\bin\Debug\Array Processing.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\bin\Debug\Array Processing.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\bin\Debug\Array Processing.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\bin\Debug\Array Processing.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array Processing.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array_Processing.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array_Processing.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array Processing.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array Processing.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array Processing.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array Processing.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 10 - Arrays and Structures\Array Processing\Array Processing\obj\Debug\Array Processing.pdb
