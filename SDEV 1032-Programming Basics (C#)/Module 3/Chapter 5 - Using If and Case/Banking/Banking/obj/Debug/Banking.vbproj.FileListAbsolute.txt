@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\bin\Debug\Banking.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Banking\Banking\obj\Debug\Banking.vbprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\bin\Debug\Name of Month.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\bin\Debug\Name of Month.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\bin\Debug\Name of Month.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\bin\Debug\Name of Month.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name of Month.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name_of_Month.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name_of_Month.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name of Month.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name of Month.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name of Month.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name of Month.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 3 Projects\Chapter 5 - Using If and Case\Name of Month\Name of Month\obj\Debug\Name of Month.pdb
