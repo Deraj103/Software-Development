@@ -1,0 +1,11 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\bin\Debug\HelloWorld-visual.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\bin\Debug\HelloWorld-visual.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\bin\Debug\HelloWorld-visual.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\bin\Debug\HelloWorld-visual.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld-visual.vbprojResolveAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld_visual.HelloWorld.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld_visual.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld-visual.vbproj.GenerateResource.Cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld-visual.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld-visual.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic2015\HelloWorld-visual\HelloWorld-visual\obj\Debug\HelloWorld-visual.pdb
