@@ -1,0 +1,12 @@
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing a File.vbprojAssemblyReference.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing_a_File.Form1.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing_a_File.Resources.resources
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing a File.vbproj.GenerateResource.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing a File.vbproj.CoreCompileInputs.cache
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\bin\Debug\Writing a File.exe.config
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\bin\Debug\Writing a File.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\bin\Debug\Writing a File.pdb
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\bin\Debug\Writing a File.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing a File.exe
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing a File.xml
+C:\Users\Jared Tims\OneDrive\DATC Work\Basic Programming\Visual Basic\Mod 5 Projects\Chapter 9 - File IO - Files, Records, and Fields\Writing a File\Writing a File\obj\Debug\Writing a File.pdb

@@ -1,0 +1,5 @@
+Jared,Tims,20,8,8,8,8,8
+Tina,Tims,15,6,6,6,6,6
+Isaac,Tims,10,4,4,4,4,4
+Lily,Tims,5,2,2,2,2,2
+Zoey,Tims,1,1,1,1,1,1
